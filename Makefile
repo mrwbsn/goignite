@@ -7,7 +7,7 @@ build: clean
 clean:
 	rm -rf ${APP}
 run:
-	go run -race ${APP}.go
+	go run -race ${APPDIR}/main.go
 test:
 	go test -v -race -covermode=atomic -coverprofile=coverage.out ./...
 install:

@@ -13,4 +13,4 @@ test:
 install:
 	go build ./...
 
-.PHONY: build clean run install
+.PHONY: build clean run test install

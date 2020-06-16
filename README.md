@@ -1,6 +1,6 @@
 # DEVENV-SETUP
 
-A script to setup development environment for Go project based on devenv template
+A small script to setup development environment for Go project
 
 ## Usage
 - fill github info inside `.create.sh`

@@ -1,4 +1,4 @@
-# DEVENV-SETUP
+# Goignite
 
 A small script to setup development environment for Go project
 

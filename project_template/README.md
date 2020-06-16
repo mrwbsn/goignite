@@ -1,4 +1,4 @@
-# GoIgnite
+# goignite
 
 A Go project starter
 
